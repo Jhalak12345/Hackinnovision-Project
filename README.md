@@ -356,14 +356,12 @@ Ed25519 signing raises the bar substantially — database access alone is no lon
 
 ---
 
-## Team GRID 404
+## Team Rizzcursion
 
-Built for **Smart India Hackathon 2026**, Problem Statement **PS-03 — Blockchain-Based Tamper-Proof Academic Credential Verification System**.
+Built for Hackinnovision
 
 AUTHOR:
 1) Utkarsh Tripathi
-2) Pratik Choudhury
-3) Suryansh Das
-4) Yaara Aafrin
-5) Ekta Mohanty
-6) Swayam Sohani
+2) Jhalak Tejpal
+3) Vidisha Mittal
+4) Swayam Sohani
